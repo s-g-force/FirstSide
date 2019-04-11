@@ -1,0 +1,9 @@
+.radiusMain{
+    border-radius: 5px;
+}
+body{
+    background-color: black;
+}
+.heiMain{
+    min-height: 600px;
+}
